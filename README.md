@@ -1,7 +1,7 @@
 ## Opa, eu sou o Astro_815
 
 - Tenho uma empresa **@stayforgame**
-- Tenho 3 canais no youtube
+- Tenho 3 canais no Youtube
 
 <!---
 Astro815/Astro815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
