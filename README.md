@@ -1,6 +1,6 @@
 ## Opa, eu sou o Astro_815
 
-- Tenho uma empresa @stayforgame
+- Tenho uma empresa **@stayforgame**
 - Tenho 3 canais no youtube
 
 <!---
