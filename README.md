@@ -1,7 +1,8 @@
 ## Opa, eu sou o Astro_815
 
 - Tenho uma empresa **@stayforgame**
-- Tenho 3 canais no [Youtube](https://www.youtube.com/channel/UCWGU0WV2CWm4akpcaNlK6BQ)
+- Tenho 7 canais no [Youtube](https://www.youtube.com/channel/UCWGU0WV2CWm4akpcaNlK6BQ)
+- 
 
 
 ### StayForGame
