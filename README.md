@@ -19,6 +19,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![FireBase](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=firebase&logoColor=yelow)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 - **Basico**: 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
