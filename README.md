@@ -1,5 +1,5 @@
 #### Opa meu nome é **Filipe** mas me chame de _Astro_
-- Tenho 16 anos e possuo a minha própria empresa de jogos chamada [**@stayforgame**](https://stayforgame.indie.af)
+- Tenho 17 anos e possuo a minha própria empresa de jogos chamada [**@stayforgame**](https://stayforgame.indie.af)
 - Tenho 7 canais no [Youtube](https://www.youtube.com/channel/UCWGU0WV2CWm4akpcaNlK6BQ)
 
 ## Home
