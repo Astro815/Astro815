@@ -1,3 +1,4 @@
+<!--
 ## Portfólio
 [Acesse](https://astro815.github.io/perfil/)
 
@@ -50,4 +51,4 @@
 </a>
 <a href="https://gamejolt.com/@StayForGame">
   <img src="https://img.shields.io/badge/gamejolt-239120?style=for-the-badge&logo=gamejolt&logoColor=white">
-</a>
+</a>-->
