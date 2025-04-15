@@ -1,54 +1,63 @@
+## Hi there! 👋
+I'm Filipe Gabriel, or Astro_815 (my nickname), a passionate software developer with expertise in various technologies. Welcome to my GitHub profile!
+
+### 🚀 About Me
+
+Here's a quick overview of my skills and interests:
+
+- 💼 Currently, professionally associated with the company "Stayforgame"
+- 💻 Experience in web development, animation, and graphics
+- 🌐 Skills: Java, Python, C#, Web Technologies (HTML, CSS and JavaScript), Game Dev Technologies (Godot, Construct 3, GameMakerStudio 2)
+- 🔭 Passionate about exploring different programming languages and frameworks
+
+### 📊 GitHub Stats
+
+Let's take a look at my GitHub stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astro815&show_icons=true&theme=radical)
+
+Here are the top languages I frequently use in my projects:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro815&layout=compact&theme=radical)
+
+### 🌟 Featured Projects
+
+Here are some of my notable projects that represent my skills and interests:
+
+
+#### 1. [Vaproon](https://github.com/Astro815/Vaproon)
+I created Vaproon for the Agrinho 2022 competition, where I won 1st place in the state of Paraná. I developed an online vaccination card with the aim of helping a local community, facilitating vaccination scheduling and gathering important information about health and vaccination periods.
+
+![JavaScript](https://img.shields.io/badge/html-orange?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-blue?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+
+
+#### 2. [StayForGame](https://stayforgame.com.br) 
+StayForGame is my passion project: a Brazilian interactive gaming platform that delivers exciting, challenging, and fun adventures. My goal is to create unique experiences for players, while building an active and engaged community on Discord. In addition to playing, everyone can contribute ideas, feedback, and participate in the growth of this dynamic and collaborative universe.
+
+![Next.js](https://img.shields.io/badge/Next.js-green?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 <!--
-## Portfólio
-[Acesse](https://astro815.github.io/perfil/)
+#### 3. [regentube](https://github.com/[user]/regentube)
+A school project where I developed an online platform for students to access educational resources and collaborate with peers.
+-->
+#### 3. [Animation-to-SpriteSheet](https://github.com/Astro815/animation-to-spritesheet)
+I created **animation-to-spritesheet** as a simple tool to convert animations (GIFs or image sequences) into organized spritesheets, along with a helper `.xml` file. It is ideal for game developers who need to speed up this process in a practical and automatic way without using paid programs.
 
-#### Opa meu nome é **Filipe** mas me chame de _Astro_
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 
-## Home
-<img align="right" src="https://cdn-icons-png.flaticon.com/512/3605/3605540.png" width="150" style="padding:50px;">
-<a href="https://github.com/Astro815">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Astro815&theme=dark&show_icons=true" />
-</a>
+Feel free to explore all my repositories to gain a better understanding of my work!
 
-#### Conheçimentos
-- **FULL**:
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![construct 2](https://img.shields.io/badge/construct2-1572B6?style=for-the-badge&logo=construct3&logoColor=white)
-![construct 3](https://img.shields.io/badge/construct3-232F3E?style=for-the-badge&logo=construct3&logoColor=white)
-- **MEDIANO**: 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![FireBase](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=firebase&logoColor=yelow)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-- **Basico**: 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+### 🔗 Connect with Me
 
-##### Estarei aqui
-<a href="https://www.youtube.com/channel/UCWGU0WV2CWm4akpcaNlK6BQ">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-<a href="https://www.instagram.com/astro_815.0/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://discord.gg/5FZGM2vnVm">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="https://discord.gg/5FZGM2vnVm">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="https://steamcommunity.com/id/astrogame815/">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</a>
-<a href="https://www.twitch.tv/astro_815">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-</a>
-<a href="https://stayforgame.itch.io/">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
-</a>
-<a href="https://gamejolt.com/@StayForGame">
-  <img src="https://img.shields.io/badge/gamejolt-239120?style=for-the-badge&logo=gamejolt&logoColor=white">
-</a>-->
+If you have any questions or would like to collaborate, feel free to reach out to me. You can reach me through various channels:
+
+
+- 🌍 Visit my LinkTree: [linktr.ee/astro815](https://linktr.ee/astro815)
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/astro815/)
+- 📧 Drop me an [astro.company815@gmail.com](mailto:astro.company815@gmail.com)
+- 🐦 Connect me on [Twitter/x](https://x.com/astro_815)
+
+***Thank you!***
